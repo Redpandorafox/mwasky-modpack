@@ -1,0 +1,16 @@
+filename = 'formations-1.0.3-forge-mc1.20.2.jar'
+name = 'Formations (Structure Library)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '794358622a91971036e5179a11c2454f36068ff240ad1c2b8dfa717b5b11742dc678ac93e18c04af6439351ac70131ebbd451875532c1471e506b67d94fd7ca7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tPe4xnPd/versions/CYhqOhL6/formations-1.0.3-forge-mc1.20.2.jar'
+
+[update.modrinth]
+mod-id = 'tPe4xnPd'
+version = 'CYhqOhL6'

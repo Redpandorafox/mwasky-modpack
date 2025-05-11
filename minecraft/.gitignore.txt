@@ -1,0 +1,29 @@
+# Ignore Minecraft logs and crash reports
+logs/
+crash-reports/
+debug/
+
+# Ignore world saves
+saves/
+
+# Ignore mod loader cache files
+/.fabric/
+/.neoforge/
+/.forge/
+/.litemod/
+
+# Ignore user-specific files
+options.txt
+servers.dat
+*.bak
+*.tmp
+*.lock
+
+# Ignore .DS_Store (macOS) and Thumbs.db (Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore export files
+*.mrpack
+*.zip
+*.tar.gz

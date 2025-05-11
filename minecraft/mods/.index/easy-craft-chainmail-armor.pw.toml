@@ -1,0 +1,16 @@
+filename = 'CraftableChainmail-1.20.1-3.2.1-[FORGE].jar'
+name = 'Easy Craft of Chainmail Armor'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e7728689a4fb6fe76738644807452b4d6e549b099d39a72dc3b796acab3150cbde63dd654b71f858a0e2ac5a6247a86f97f9486d69b1f91967e385747d93130d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3kDEXeHU/versions/zYscpoIM/CraftableChainmail-1.20.1-3.2.1-%5BFORGE%5D.jar'
+
+[update.modrinth]
+mod-id = '3kDEXeHU'
+version = 'zYscpoIM'

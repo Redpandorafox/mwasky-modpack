@@ -1,0 +1,16 @@
+filename = 'trinketsandbaubles-1.2.7.jar'
+name = 'Trinkets and Baubles Reforked'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '07c6c83d23e23640616c1589ef3826e03987c676d63b7c9baff512f78eb104a35ed9437c28d9e1629464dbf4acc0d1ea6b3309f82ab1de8226a66e59aeb9a173'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/45CeEOgI/versions/IzTk5aDV/trinketsandbaubles-1.2.7.jar'
+
+[update.modrinth]
+mod-id = '45CeEOgI'
+version = 'IzTk5aDV'
