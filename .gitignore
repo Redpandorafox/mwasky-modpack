@@ -38,7 +38,19 @@ minecraft/XaeroWaypoints_BACKUP*/
 minecraft/config/controllable/
 minecraft/config/controllable-client.toml
 minecraft/config/jei/world/
-minecraft/config/yes_steve_model/cache/remote_model_info_*
+minecraft/config/yes_steve_model/cache/
+minecraft/config/yes_steve_model/custom/
+ minecraft/config/Mekanism/client.toml
+minecraft/config/doubledoors.json5
+minecraft/config/jei/recipe-category-sort-order.ini
+minecraft/config/modernfix-mixins.properties
+minecraft/config/oculus.properties
+minecraft/config/packetfixer.properties
+minecraft/config/sound_physics_remastered/allowed_sounds.properties
+minecraft/config/trinketsandbaubles_mana_hud.json
+minecraft/config/xaerominimap.txt
+minecraft/config/xaeroworldmap.txt
+
 
 # Ignore backup and temporary files
 *.bak
@@ -52,6 +64,9 @@ instance.cfg
 # Ignore Mac/Windows junk
 .DS_Store
 Thumbs.db
+minecraft/config/daycounter_5.0.json
+minecraft/config/lithostitched.json
+
 
 # Ignore exported modpacks
 *.mrpack
